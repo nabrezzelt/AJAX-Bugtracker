@@ -1,0 +1,2 @@
+https://api.jquery.com/category/events/
+http://www.tutorialspoint.com/jquery/jquery-ajax.htm

@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Listen for XDebug",
+            "type": "php",
+            "request": "launch",
+            "program": "C:\\xampp\\php",
+            "port": 9000
+        },
+        {
+            "name": "Launch currently open script",
+            "type": "php",
+            "request": "launch",
+            "program": "C:\\xampp\\php",
+            "cwd": "${fileDirname}",
+            "port": 9000
+        }
+    ]
+}
